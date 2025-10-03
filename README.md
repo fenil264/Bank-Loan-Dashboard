@@ -66,7 +66,7 @@ The data sources include direct applications, credit reports, internal bank reco
 - `/dashboards` — Power BI dashboard files
 - `/data` — Sample loan data
 - `/scripts` — SQL scripts for custom analysis
-- `/docs` — Notes on banking processes and compliance
+
 
 ## Contributing
 
