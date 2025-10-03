@@ -64,7 +64,3 @@ The data sources include direct applications, credit reports, internal bank reco
 Contributions are welcome! You can help improve dashboard visuals, automate data analysis, or update the risk assessment logic. Please fork the repository and submit a pull request.
 
 
-
-chments/images/115930581/15a31e45-5194-4fbb-8338-b538e8d5c55f/image.jpg)
-[11](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/115930581/ab3ca09e-0dc4-4648-a163-2dcc9d16b644/image.jpg)
-[12](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/115930581/3370c407-e2e6-4e91-a0b6-3c6f349f3f3d/image.jpg)
