@@ -6,6 +6,15 @@
 
 Bank Loan Report is an interactive analytics dashboard for banks and financial analysts. It helps visualize, manage, and understand loan applications, disbursed funds, payment collections, and overall loan portfolio health. This project leverages real-world loan data and presents it through easy-to-read dashboards with charts and tables.
 
+## Snapshots of Working Demo
+
+<img width="1533" height="860" alt="image" src="https://github.com/user-attachments/assets/44559bf2-eea0-4c64-bd74-8e7c5ec0c805" />
+<img width="1535" height="860" alt="image" src="https://github.com/user-attachments/assets/81f16b81-59cf-4892-ab47-7e8825d23ce7" />
+<img width="1538" height="862" alt="image" src="https://github.com/user-attachments/assets/61458d55-ffe4-4626-b357-4247f19f8ab4" />
+
+
+
+
 ## Why This Project?
 
 Loans are vital for personal and business financial growth. Analyzing loan data helps banks make smarter decisions, manage risks, detect fraud, and meet regulatory standards. The aim of this project is to simplify the understanding of complex loan data so banks can improve their practices and customer offerings.
